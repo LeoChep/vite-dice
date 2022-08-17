@@ -1,0 +1,13 @@
+assets 资源
+
+
+view图形层 
+    page 页面
+    components组件，包含class等属性
+    controller 控制器，调用logic
+class 类，主要负责逻辑类
+    entity 对象实体的pojo类
+    logic 逻辑控制类，用于处理各种逻辑，相当于service
+    effect 效应
+
+ 
